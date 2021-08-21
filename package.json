@@ -1,0 +1,20 @@
+{
+  "name": "mytools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "conf": "^10.0.2"
+  },
+  "bin": {
+    "mytools": "index.js"
+  }
+}
